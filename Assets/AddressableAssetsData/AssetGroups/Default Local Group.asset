@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1b2aee9735ea2354abcacbc2fe285281
+  m_SerializeEntries:
+  - m_GUID: 40c42f7896a77cc48b629be017cc38d3
+    m_Address: Assets/Datas/MiniGameDatas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MiniGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c402034b35b621644b0eff475c186d22
+    m_Address: Assets/Datas/MiniGameDatas/Game_1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MiniGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6093583ddc94c644bfe864d09f55ad8
+    m_Address: Assets/Datas/MiniGameDatas/Game_2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MiniGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1cfc050acd67f54e84e0907da9204e6
+    m_Address: Assets/Datas/MiniGameDatas/Game_3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MiniGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66e2de4a1cef67940a895bae03ee31c4
+    m_Address: Assets/Datas/MiniGameDatas/Game_4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MiniGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 679d7afdaff151d419f22a8e60d86902
+    m_Address: Assets/Datas/MiniGameDatas/Game_5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MiniGame
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3698dfc11eb4d7408210563831b460c
+    m_Address: Assets/_MainUI/Prefabs/Screens
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Screen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0bc55a228e312543a8ed702cbd6efda
+    m_Address: Assets/_MainUI/Prefabs/Popups
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d96eabee993af674cb4c33c7c8e2f973, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4e461fbe2ae3d4746b83e0df74b96e97, type: 2}
+    - {fileID: 11400000, guid: cf887f86454f03447b110decd401c8e2, type: 2}
