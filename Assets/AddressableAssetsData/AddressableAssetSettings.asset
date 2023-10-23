@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 1b2aee9735ea2354abcacbc2fe285281
   m_currentHash:
     serializedVersion: 2
-    Hash: 06529bc9b6fa7220a63a6e1fbe5ff1e8
+    Hash: 2dd36f737c1112f7386d602d046a9c99
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -88,8 +88,7 @@ MonoBehaviour:
     m_LabelNames:
     - default
     - MiniGame
-    - Screen
-    - Popup
+    - UI
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: f72aeda79e0b6da4c988fa7666222a52, type: 2}

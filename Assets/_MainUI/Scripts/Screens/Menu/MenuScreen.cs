@@ -5,11 +5,11 @@ using UnityEngine;
 public class MenuScreen : ScreenBase
 {
     [SerializeField] private MenuMiniGameManager miniGameManager;
-    private void Start()
+    public override void OnOpenScreen()
     {
-        GameManager.OnLoadGameResourceSuccess += SetupData;
+        base.OnOpenScreen();
+        SetupData();
     }
-
     public void SetupData()
     {
         List<MiniGameElementData> miniGameElementDatas = new List<MiniGameElementData>();
